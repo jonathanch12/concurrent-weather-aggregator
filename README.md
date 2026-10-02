@@ -20,8 +20,6 @@ concurrent-weather-aggregator/
 ├── helper.go            # Helpers: parseLine and printReport
 ├── go.mod               # Go module definition
 ├── weather_stations.csv # Input data (Station;Temperature per line)
-└── local/               # Local scratch notes (not part of the program)
-    └── case.md
 ```
 
 ## Requirements
